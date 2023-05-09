@@ -1,1 +1,1 @@
-# Resolución a examen de JS
+# Resolución de examen JS
